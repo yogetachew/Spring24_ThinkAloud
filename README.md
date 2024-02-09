@@ -7,3 +7,7 @@ For this Think Aloud project I will be using a Video tutoral I found on youtube 
 
 ## [Shutdown app using Python with GUI](https://youtu.be/OKuiyX5k6zg?t=4575&si=Xpgb3Jq1p4UnEa61)
 * I will start this one for week 2
+* Shutdown program is completed
+
+## Qrcode with python
+* I will be starting this I week 4
