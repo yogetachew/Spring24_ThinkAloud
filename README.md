@@ -9,5 +9,6 @@ For this Think Aloud project I will be using a Video tutoral I found on youtube 
 * I will start this one for week 2
 * Shutdown program is completed
 
-## Qrcode with python
+## Speed calculator
 * I will be starting this I week 4
+* Done on week 6
